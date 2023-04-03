@@ -1,8 +1,8 @@
 .my-list {
-    background-color: #f7f381;
+    background-color: orange;
     padding: 8px 24px;
     Width: 500px;
     Text-size: 30px;
-    Border: 1px solid #f7f381;
+    Border: 1px solid orange;
     box-shadow: 0 0 10px 2px #333333;
 }
